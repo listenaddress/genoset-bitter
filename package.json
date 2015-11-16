@@ -1,7 +1,7 @@
 {
    "name":"genoset-bitter",
    "description":"Determines if a genome is 80% likely to be unable to taste bitter. (GS116)",
-   "version":"0.0.1",
+   "version":"0.0.2",
    "homepage":"http://github.com/thomasbeta/genoset-bitter",
    "repository":"git://github.com/thomasbeta/genoset-bitter.git",
    "author":"Thomas O'Brien <tbobrien612@gmail.com> (https://github.com/thomasbeta)",
