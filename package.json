@@ -6,7 +6,7 @@
    "repository":"git://github.com/thomasbeta/genoset-bitter.git",
    "author":"Thomas O'Brien <tbobrien612@gmail.com> (https://github.com/thomasbeta)",
    "main":"./index.js",
-   "tags": ["genome", "genoset", "gs116", "dna", "genetics", "genes", "taste", "diet", "bitter"],
+   "keywords": ["genome", "genoset", "gs116", "dna", "genetics", "genes", "taste", "diet", "bitter"],
    "dependencies":{
       "gql":"*"
    },
